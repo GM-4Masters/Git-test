@@ -256,8 +256,14 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: "21-07-31 10:09pm \uC774\uD61C\uB9B0 \uD14C\uC2A4\uD2B8"
 --- !u!222 &1413764591
+=======
+  m_Text: "21-07-31 9:45pm \uC774\uD61C\uB9B0 \uD14C\uC2A4\uD2B8\n21-07-31 9:54pm
+    \uAE40\uC120\uD6A8 \uD14C\uC2A4\uD2B8\n21-07-31 10:08pm \uAE40\uC120\uD6A8 \uD14C\uC2A4\uD2B82"
+--- !u!222 &717637466
+>>>>>>> 05454e4ed7aacbf3f092debb223129aeccbc216d
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -635,8 +641,12 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
+<<<<<<< HEAD
   - {fileID: 1413764589}
+=======
+  - {fileID: 717637464}
   - {fileID: 1444805981}
+>>>>>>> 05454e4ed7aacbf3f092debb223129aeccbc216d
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
