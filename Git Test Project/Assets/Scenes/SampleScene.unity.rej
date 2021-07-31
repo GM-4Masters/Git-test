@@ -1,0 +1,9 @@
+diff a/Git Test Project/Assets/Scenes/SampleScene.unity b/Git Test Project/Assets/Scenes/SampleScene.unity	(rejected hunks)
+@@ -299,6 +299,7 @@
+   m_LocalPosition: {x: 0, y: 0, z: 0}
+   m_LocalScale: {x: 1, y: 1, z: 1}
+   m_Children:
++  - {fileID: 1722863514}
+   m_Father: {fileID: 1868777749}
+   m_RootOrder: 0
+   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

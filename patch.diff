@@ -1,0 +1,33 @@
+diff --git a/Git Test Project/Assets/Scenes/SampleScene.unity b/Git Test Project/Assets/Scenes/SampleScene.unity
+index 1f48cb3..6981bbe 100644
+--- a/Git Test Project/Assets/Scenes/SampleScene.unity	
++++ b/Git Test Project/Assets/Scenes/SampleScene.unity	
+@@ -379,8 +379,13 @@ RectTransform:
+   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+   m_AnchorMin: {x: 0.5, y: 0.5}
+   m_AnchorMax: {x: 0.5, y: 0.5}
++<<<<<<< .merge_file_a21636
+   m_AnchoredPosition: {x: 0, y: -20}
+   m_SizeDelta: {x: 300, y: 30}
++=======
++  m_AnchoredPosition: {x: 0, y: -13.85}
++  m_SizeDelta: {x: 300, y: 57.696503}
++>>>>>>> .merge_file_a05212
+   m_Pivot: {x: 0.5, y: 0.5}
+ --- !u!114 &1722863515
+ MonoBehaviour:
+@@ -414,8 +419,14 @@ MonoBehaviour:
+     m_HorizontalOverflow: 0
+     m_VerticalOverflow: 0
+     m_LineSpacing: 1
++<<<<<<< .merge_file_a21636
+   m_Text: "21-07-31 8:44pm \uC774\uD61C\uB9B0 \uD14C\uC2A4\uD2B8 2"
+ --- !u!222 &1722863516
++=======
++  m_Text: "21-07-31 8:33pm \uC774\uD61C\uB9B0 \uD14C\uC2A4\uD2B8\n21-07-31 8:45pm
++    \uAE40\uC120\uD6A8 \uD14C\uC2A4\uD2B8"
++--- !u!222 &1710483809
++>>>>>>> .merge_file_a05212
+ CanvasRenderer:
+   m_ObjectHideFlags: 0
+   m_CorrespondingSourceObject: {fileID: 0}
