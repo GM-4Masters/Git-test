@@ -379,8 +379,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 300, y: 30}
+  m_AnchoredPosition: {x: 0, y: -13.85}
+  m_SizeDelta: {x: 300, y: 57.696503}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1710483808
 MonoBehaviour:
@@ -414,7 +414,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "21-07-31 8:33pm \uC774\uD61C\uB9B0 \uD14C\uC2A4\uD2B8"
+  m_Text: "21-07-31 8:33pm \uC774\uD61C\uB9B0 \uD14C\uC2A4\uD2B8\n21-07-31 8:45pm
+    \uAE40\uC120\uD6A8 \uD14C\uC2A4\uD2B8"
 --- !u!222 &1710483809
 CanvasRenderer:
   m_ObjectHideFlags: 0
